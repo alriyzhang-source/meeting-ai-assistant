@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+vosk-model-cn/
+materials/
+*.zip
+.env
