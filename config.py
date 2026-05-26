@@ -3,7 +3,7 @@
 import os
 
 # ============ Claude API ============
-CLAUDE_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "tp-c6374m1pvvb8mx181sqhjfoawnaylxndzf4mj6uovuc4q461")
+CLAUDE_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 CLAUDE_MODEL = "mimo-v2.5-pro"
 
 # ============ Whisper 语音识别 ============
