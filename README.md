@@ -16,7 +16,7 @@ A real-time AI assistant for online meetings (Tencent Meeting). It captures audi
 - Python 3.8+
 - NVIDIA GPU (optional, for faster processing)
 - VB-Audio Virtual Cable
-- MiMo API key
+-  API key
 
 ## Installation
 
